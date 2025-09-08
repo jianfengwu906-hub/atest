@@ -1,7 +1,7 @@
 import json
 import requests
 
-url = "https://www.baidu.com"
+url = "https://sesaadmin.nie.netease.com"
 
 try:
     response = requests.get(url)
